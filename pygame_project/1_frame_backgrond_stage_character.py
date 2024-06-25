@@ -68,3 +68,4 @@ while running:
 # pygame 종료
 pygame.quit()
 
+# 추가했다 이부분
